@@ -32,8 +32,6 @@ Everything in this profile is built so the LATAM cybersec ecosystem has practica
 | Repository | What it is |
 |---|---|
 | [`awesome-latam-cybersec`](https://github.com/kalir-sec/awesome-latam-cybersec) | Curated list of LATAM cybersecurity resources — CSIRTs, blogs, tools, conferences |
-| [`threat-feeds`](https://github.com/kalir-sec/threat-feeds) | Daily public IOC and ransomware-victim feeds with LATAM filtering |
-| [`ransomware-watch`](https://github.com/kalir-sec/ransomware-watch) | Weekly ransomware-activity snapshots, LATAM-focused |
 
 ---
 
